@@ -1,0 +1,20 @@
+.topic-content img {
+    width: 100%;
+    height: auto;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+ul li {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+.border {
+    box-sizing: border-box;
+    border: 1px solid red !important;
+}
